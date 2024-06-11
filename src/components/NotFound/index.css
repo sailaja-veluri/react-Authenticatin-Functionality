@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+.heading {
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+}
